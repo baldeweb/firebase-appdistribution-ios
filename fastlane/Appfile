@@ -1,0 +1,10 @@
+app_identifier("com.example.wallace.poc-modulo") # The bundle identifier of your app
+apple_id("wallace.baldenebre@icloud.com") # Your Apple email address
+team_id("4XLCLV84RA")
+# F3S9LBV45T - 2022-08-14
+# N76Z7758U2 - 2022-08-12
+# team_id("Wallace Baldenebre da Silva")
+
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
